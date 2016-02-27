@@ -1,0 +1,1 @@
+This code is C# version of Ibne Saeed's Javascript code used in his Chachu Typing Tutor [urduweb.org/mehfil]
